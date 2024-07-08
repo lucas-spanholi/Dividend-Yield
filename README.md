@@ -135,3 +135,10 @@ def plot_dividend_yields(data, num_acoes=10):
 
 # Example of using the function
 plot_dividend_yields(data, num_acoes=10)
+
+# Contributing
+If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
+
+
+
+
